@@ -1,0 +1,23 @@
+\begin{thebibliography}{1}
+
+\bibitem{Matlab:Arduino}
+Arduino support from matlab.
+\newblock \url{https://de.mathworks.com/hardware-support/arduino-matlab.html}.
+\newblock Accessed: 7/10/2016.
+
+\bibitem{Arduino:Started}
+Arduino getting started.
+\newblock \url{https://www.pozyx.io/Documentation/Tutorials/gettingStarted}.
+\newblock Accessed: 7/10/2016.
+
+\bibitem{BP}
+Jaime~Lien Henk~Wymeersch and Moe~Z. Win.
+\newblock {\em Cooperative Localization in Wireless Networks}.
+\newblock IEE, vol. 97 edition, 2009.
+
+\bibitem{Pozyx:localize}
+Arduino tutorial: ready to localize.
+\newblock \url{https://www.pozyx.io/Documentation/Tutorials/ready_to_localize}.
+\newblock Accessed: 7/10/2016.
+
+\end{thebibliography}
