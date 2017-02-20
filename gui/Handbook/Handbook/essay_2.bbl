@@ -1,0 +1,13 @@
+\begin{thebibliography}{1}
+
+\bibitem{Matlab:Arduino}
+Arduino support from matlab.
+\newblock \url{https://de.mathworks.com/hardware-support/arduino-matlab.html}.
+\newblock Accessed: 7/10/2016.
+
+\bibitem{Arduino:Started}
+Arduino getting started.
+\newblock \url{https://www.pozyx.io/Documentation/Tutorials/gettingStarted}.
+\newblock Accessed: 7/10/2016.
+
+\end{thebibliography}

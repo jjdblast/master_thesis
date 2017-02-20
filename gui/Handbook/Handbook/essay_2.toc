@@ -1,0 +1,7 @@
+\contentsline {section}{\numberline {1}Prerequisites}{2}
+\contentsline {section}{\numberline {2}Script Files}{2}
+\contentsline {section}{\numberline {3}Arduino Setup}{3}
+\contentsline {section}{\numberline {4}Overview}{3}
+\contentsline {section}{\numberline {5}Control}{4}
+\contentsline {section}{\numberline {6}Results}{5}
+\contentsline {section}{\numberline {7}Future Work}{7}
